@@ -10,7 +10,8 @@ The objective of this project is to conduct a similar analysis but using a compu
 
 >**This is "Rapid Integrated Assessment" for the SDGs for Bhutan. It analyses only one document " is exactly the kind of analysis we seek to reproduce:**
 >
->Human Analysis: **- [RIA - SDGs for Bhutan](http://www.gnhc.gov.bt/wp-content/uploads/2011/04/Eleventh-Five-Year-Plan.pdf)**  
+>Human Analysis 1: **- [RIA - template 1 - Bhutan](https://undg.org/wp-content/uploads/2016/06/RIA_Bhutan_Key_Observations-18.12.2015.pdf)**  
+>Human Analysis 2: **- [RIA - template 2 - Bhutan](https://undg.org/wp-content/uploads/2016/06/RIA-Bhutan-Template-2-SDG-Profile-excluding-Goal-14-29.10.2015_final-1.pdf)**  
 >Document Analyzed: **- [RIA - SDGs for Bhutan](http://www.gnhc.gov.bt/wp-content/uploads/2011/04/Eleventh-Five-Year-Plan.pdf)**
 
 This paper mentions a couple of examples of Rapid Integrated Assessments.
