@@ -1,0 +1,52 @@
+import nltk, string, numpy, matplotlib, pandas as pd
+from sklearn.feature_extraction.text import TfidfVectorizer
+%matplotlib inline
+
+vectorizer = TfidfVectorizer(stop_words='english')
+def cosine_sim(text1, text2):
+    tfidf = vectorizer.fit_transform([text1, text2])
+    return ((tfidf * tfidf.T).A)[0,1]
+    
+targets = pd.read_csv('C:\\Users\\Travis Park\\Google Drive\\UN\\Team MOZART RAP\\SDG_Targets.csv', names = ['ID', 'Target'])
+
+file = open('C:\\Users\\Travis Park\\Google Drive\\UN\\Team MOZART RAP\\test_text.txt').read().replace('\n',' ')
+file = file.split('. ')
+
+indx = []
+j=0
+
+for i in file:
+    indx.append(j)
+    j=j+1
+
+df_file = pd.DataFrame(file, columns = ['Sentence'])
+df_file['Index'] = indx
+
+t_list = []
+id_list = []
+i =0
+
+while i < len(targets):
+    t_list.append(targets['Target'][i])
+    id_list.append(targets['ID'][i])
+    i=i+1
+    
+i=0
+
+df_tfidf = pd.DataFrame(columns = ['Target','SentenceIndex','CosineSimilarity'])
+
+while i < len(targets):
+    j=0
+    while j < len(df_file):
+        a=targets['ID'][i]
+        b=df_file['Index'][j]
+        c=targets['Target'][i]
+        d=df_file['Sentence'][j]
+        
+        df2 = pd.DataFrame([[a,b,cosine_sim(c,d)]], columns = ['Target','SentenceIndex','CosineSimilarity'])
+        df_tfidf=pd.concat([df_tfidf,df2])
+        
+        j=j+1
+    i=i+1
+
+df_tfidf.to_csv(path_or_buf = 'C:\\Users\\Travis Park\\Google Drive\\UN\\Team MOZART RAP\\tfidfExport.csv')
