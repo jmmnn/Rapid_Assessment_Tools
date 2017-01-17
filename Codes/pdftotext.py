@@ -1,8 +1,8 @@
-import tempfile, subprocess
+import tempfile, subprocess, os
 
-def pdf_to_text(file_path):
+def pdf_to_text(file_object):
 
-    pdf = file_path.read()
+    pdf = file_object.read()
 
     tf = tempfile.NamedTemporaryFile()
     tf.write(pdf)
@@ -18,11 +18,27 @@ def pdf_to_text(file_path):
         return None
 
 
-pdf =  pdf_to_text(open('/Users/Maxwell/PycharmProjects/Github/Rapid_Assessment_Tools/SharedFiles/Fordham/RIA Cambodia/Docs Reviewed/Cambodia Industrial Development Policy 2015_2025.pdf', 'rb'))
+def all_pdf(root_dir):
 
-pdf = pdf.decode('windows-1252')
+    dir_list = os.walk(root_dir)
+    file_path = []
+
+    for root, dirs, files in dir_list:
+        for file in files:
+            file_path.append(os.path.join(root, file))
+
+    return file_path
 
 
-with open('output.txt', 'w') as f:
-    f.write(pdf)
+
+
+
+root = '/Users/Maxwell/PycharmProjects/Github/Rapid_Assessment_Tools/SharedFiles/Fordham/'
+
+
+#pdf = pdf.decode('windows-1252')
+
+
+#with open('output.txt', 'w') as f:
+#    f.write(pdf)
 
