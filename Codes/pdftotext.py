@@ -6,7 +6,7 @@ class pdf_to_text():
         self.root_path = root_path
         self.files = []
 
-    def all_pdf(self):
+    def find_all(self):
 
         dir_list = os.walk(self.root_path)
         file_path = []
@@ -15,9 +15,9 @@ class pdf_to_text():
             for file in files:
                 self.files.append(os.path.join(root, file))
 
-    def pdf_to_text(self):
+    def convert(self):
 
-        self.all_pdf()
+        self.find_all()
 
         for file in self.files:
 
@@ -36,4 +36,4 @@ class pdf_to_text():
 
 root_path = '/Users/maxwelllee54/GitHubs/Rapid_Assessment_Tools/SharedFiles/Fordham'
 
-pdf = pdf_to_text(root_path).pdf_to_text()
+pdf = pdf_to_text(root_path).convert()
