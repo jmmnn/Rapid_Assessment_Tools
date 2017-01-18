@@ -1,0 +1,922 @@
+                       TABLE OF CONTENT                                                                                                              MAWF STRATEGIC PLAN
+
+                                                                                         Page
+FOREWORD ...................................................................................................................................... i
+EXECUTIVE SUMMARY ...........................................................................................................ii
+ABBREVIATIONS ...........................................................................................................................iv
+1. INTRODUCTION ......................................................................................................................1
+
+    1.1 Introduction and Background .................................................................................1
+    1.2 Purpose of Strategic Plan .........................................................................................1
+2. HIGH LEVEL STATEMENTS ...........................................................................................2
+    2.1 Mandate ..................................................................................................................................2
+    2.2 Mission Statement ..........................................................................................................2
+    2.3 Vision Statement ..............................................................................................................2
+    2.4 Core Values .........................................................................................................................3
+3. STRATEGIC PROGRAMMES AND OBJECTIVES ......................................4
+4. STRATEGIC PLAN TERMINOLOGIES ...................................................................6
+5. STRATEGIC PLAN-MATRIX 2012/13 ­ 2016/17 ...............................................7
+6. CRITICAL SUCCESS FACTORS .................................................................................17
+MAWF STRATEGIC PLAN                                      FOREWORD
+
+                     The development of this Strategic Plan benefited from a consultative approach involving all
+                     key stakeholders. I take this opportunity to thank all stakeholders for their valuable contribution
+                     to this process. The implementation of the Strategic Plan will be the responsibility of all
+                     management and staff members of MAWF, supported by all its stakeholders. It is therefore
+                     incumbent upon all staff members to put their maximum effort in ensuring that the stated
+                     strategic objectives are achieved.
+                     This Strategic Plan will form the basis of MAWF's performance management system.
+                     Monitoring, evaluation and progress reporting will be done on a regular basis. Individual staff
+                     performance and appraisals will be based on the division scorecards which will be carried out
+                     on an annual basis. The management and staff should be committed to realize the outcomes
+                     envisaged in this Strategic Plan for the benefit of the agriculture, water and forestry sectors,
+                     their stakeholders and the sector's contribution to the national development goals as set out
+                     in NDP4 and Vision 2030.
+                     The Strategic Plan being a living document, MAWF will remain open-minded and flexible
+                     in making necessary adjustments and refinements as required during its implementation.
+                     This is our commitment to our stakeholders, with whose support and co-operation, I have no
+                     doubt, we will succeed. This Strategic Plan will serve as a roadmap to MAWF for the next
+                     Five Years, 2012/13 to 2016/17 and I urge staff members and stakeholders to be committed
+                     to see to it that what we have set out in the Strategic Plan is implemented thereby contributing
+                     to the overall achievement of the desired outcomes by the end of NDP4 period. In so doing,
+                     agriculture, water and forestry sectors activities will undoubtedly impact positively on the
+                     lives of all Namibians. It is therefore a challenge for all of us to live up to the expectations and
+                     deliver tangible results systematically over the next 5 years. To this effect, MAWF will assume
+                     a business-like approach through effective and efficient management of programmes within
+                     its mandate in order to contribute to local growth and development.
+
+                     ....................................................
+
+                     Hon. John Mutorwa, MP
+                     Minister of Agriculture, Water and Forestry
+
+                     i
+                                    EXECUTIVE SUMMARY                                                       MAWF STRATEGIC PLAN
+
+The MAWF Strategic Plan for the period 2012/13 to 2016/17 (from 1 April 2012) is a framework
+that outlines the approaches and activities that MAWF intends to take in order to achieve a
+steady and sustained growth in the medium term. This plan provides an integrated picture
+of where MAWF is going to be over the next five years and to serve as a communication
+vehicle for conveying its direction. It will be used to guide the Ministry in the implementation of
+programmes, projects and activities as well as allocated resources in response to its mandate
+and challenges. This Strategic Plan consists of eleven (11) strategic programmes which have
+their corresponding strategic objectives.
+
+This document is aligned to both the Fourth National Development Plan (NDP4) and the
+Sectoral Execution Plans (SEPs). Based on the Strategic Plan matrix, this plan forms the
+basis for managing and monitoring performances of MAWF staff members.
+
+The Government of the Republic of Namibia has launched its Fourth National Development
+Plan (NDP4) during the 2012/13 financial year which sets out the Nation's direction for the
+next five years. During the formulation of this high level medium-term plan, Government has
+identified Agriculture, Water and Forestry among other sectors as some of the economic
+priorities which have the potential to contribute to the achievement of Vision 2030.
+
+The Ministry of Agriculture, Water and Forestry (MAWF) is identified as the lead institution
+responsible for two subsectors namely; Agriculture and Forestry as well Water and Sanitation.
+This Ministry will focus its energy and resources on strategic areas with potential to tackle the
+sector's developmental challenges.
+
+During the formulation of this Strategic Plan, MAWF has developed implementable strategies
+which will contribute to the agriculture sector experiencing average real growth of 4 per cent
+per annum; contribute toward ensuring that the proportion of severely poor individuals has
+dropped from 15.8% in 2009/10 to below 10% by 2016/17 as well as increase access to
+portable water for human consumption from the current 85.5 per cent to 100 per cent of the
+population while ensuring that there are sufficient water reserves for industrialization.
+
+The MAWF is also expected to contribute towards the elimination of open defecation by
+the year 2017, which calls for increased coverage, use of improved sanitation facilities and
+improvement in hygiene and sanitation practices.
+
+                                                                                                        ii
+MAWF STRATEGIC PLAN  The MAWF will ensure that the strategic initiatives are implemented and the desired outcomes
+                     are achieved with direct involvement of all stakeholders. This plan will not only expedite but
+                     will also enhance the attainment of the sector's desired outcomes.
+                     Critical success factors for successful strategy execution are also presented in this plan.
+                     These are: leadership, commitment and ownership; teamwork; effective communication;
+                     good stakeholder relation; alignment to the budget; training and development; performance
+                     recognition; monitoring and evaluation as well as performance management system roll-
+                     out. Without these critical building blocks in place, it would be impossible to successfully
+                     implement this Strategic Plan.
+                     Undoubtedly, successful and effective implementation of this plan requires that the Ministry is
+                     appropriately resourced. That notwithstanding, the Ministry will strive to achieve its strategic
+                     objectives as outlined in this Strategic Plan with the resources at its disposal.
+                     Timely project planning, tender advertisements and adjudication, capital projects budget
+                     execution and general service delivery to the people are not options but must be done.
+                     To this end, MAWF staff members as the front liners are called upon to remain committed,
+                     focused and resourceful in ensuring successful implementation of this plan.
+
+                     ....................................................
+
+                     Joseph S. Iita
+                     Permanent Secretary
+
+                     iii
+                     ABBREVIATIONS                                                 MAWF STRATEGIC PLAN
+
+CFS:   Critical Success Factors
+
+DO: Desired Outcome
+
+DVS:   Directorate of Veterinary Services
+
+GRN:   Government of the Republic of Namibia
+
+HHs:   Households
+
+HIV/AIDS: Human Immuno Deficiency Virus/Acquired Immuno Deficiency Syndrome
+
+ICT: Information Communication Technology
+
+KPI:   Key Performance Indicator
+
+M&E:   Monitoring and Evaluation
+
+MAWF:  Ministry of Agriculture Water and Forestry
+
+MRLGHRD: Ministry of Regional and Local Government, Housing and Rural Development
+
+MTEF:  Medium Term Expenditures Framework
+
+NAMWATER: Namibia Water Corporation
+
+NCA:   Northern Communal Area
+
+NDP4:  National Development Plan
+
+NGOs:  Non-Governmental Organisations
+
+OMAs:  Offices, Ministries, Agencies
+
+OPM:   Office of the Prime Minister
+
+PAs:   Performance Agreements
+
+PMS:   Performance Management System
+
+TCQQ:  Time Cost Quality and Quantity
+
+WATSAN: Water and Sanitation
+
+                                                                             iv
+                                    1. INTRODUCTION                                                       MAWF STRATEGIC PLAN
+
+1.1 Introduction and Background
+
+The Ministry of Agriculture, Water and Forestry is one of the Government Institutions that is leading
+in working towards fulfilling the mandate through the Performance Management System (PMS).
+Performance Management System (PMS) is a Public Service Reform Initiative aimed at transforming
+the Public Service into a performance driven organization at all levels central and sub-national levels,
+improving service delivery to the public and foster operational efficiency within the Public Service.
+This will in turn result in effectively achieving National Development Plans (NDPs) and Vision 2030
+goals respectively.
+
+The need arose to align and harmonize a newly developed Strategic Plan 2012/13-2016/17 of the
+Ministry of Agriculture, Water and Forestry with NDP4 to accelerate the implementation of the high
+level goals and ensure desired outcomes. The Ministry of Agriculture, Water and Forestry embraced
+the Performance Management System as its vehicle to fulfill its mandate "to promote, manage and
+utilize the agriculture, water and forestry resources sustainably".
+
+The second reason for developing a new Strategic Plan is to develop a Vision and Mission State-
+ments, core values and objectives that coincide and link the operational planning with NDP4 and
+MTEF. The new plan will outline responsibilities to determine how the strategic objectives and pro-
+grammes will be achieved and who will be responsible for carrying them out. Once the Strategic
+Plan is adopted, annual operational plans for the next five years need to be developed to regularly
+monitor and evaluate the implementation of the Strategic Plan in order to enhance ongoing activities
+and operations.
+
+1.2 Purpose of Strategic Plan
+
+A Strategic Plan is a very crucial document, which will drive the Ministry of Agriculture, Water and
+Forestry to live-up to its Mandate and achieve its Vision. The Strategic Plan stands out as the road-
+map to success if fully implemented and achieved. A Strategic Plan is the foundation of Performance
+Management System (PMS). It sets clear strategic objectives and allows the organization to manage
+performance in order to achieve them. It forms a basis for Performance Agreements at individual/staff
+level thereby translating a strategy into desired action by the entire organization.
+
+In addition, a Strategic Plan integrates and unifies an organization around a shared vision and guides
+decisions in the allocation of scarce resources. The methodology followed to develop the Ministry of
+Agriculture, Water and Forestry Strategic Plan was based on the Public Service Strategic Planning
+Framework that has been developed by the Office of the Prime Minister to guide the process of de-
+veloping Strategic Plans across the entire Public Service. With the implementation of NDP4 it was
+necessary to adjust/amend the framework to clearly indicate the linkage. This is not only done for
+improving productivity and enhancing efficiency in the Ministry of Agriculture, Water and Forestry but
+also for the effective implementation of the Performance Management System (PMS).
+
+Through Strategic Planning the Ministry of Agriculture, Water and Forestry is therefore able to:
+· Clearly define where it is going (Vision);
+· Establish purpose and direction and how to get there (Mission);
+· Distinguish priority actions from non-priority actions;
+· Allocate resources to objectives and programmes (strategies);
+· Take advantage of available capacity.
+
+                                                                                                  1
+MAWF STRATEGIC PLAN                              2. HIGH LEVEL STATEMENTS
+
+                     2.1 Mandate
+
+                     The Mandate specifies the core service areas in which the Ministry of Agriculture, Water and
+                     Forestry has to perform. It specifies the core functions and responsibilities of the MAWF to
+                     the Stakeholders and Public. The mandate of the Ministry is derived from the following docu-
+                     ments:
+                     · Namibian Constitution
+                     · Vision 2030
+                     · National Development Plans
+                     · SWAPO Party 2009 election manifesto and
+                     · Millennium Development Goals
+
+                                                                  MANDATE
+
+                         "To promote, manage and utilize the agriculture, water and forestry resources sustainably."
+
+                     2.2 Mission Statement
+
+                     The Mission Statement justifies the reason of existence for the Ministry of Agriculture, Water
+                     and Forestry. In other words it defines the Ministry's purpose and primary objective.
+
+                                                                   MISSION
+
+                         "To promote and manage the sustainable utilisation and development of agricultural, water
+                             and forestry resources for a prosperous Namibia through stakeholder partnerships."
+
+                     2.3 Vision Statement
+
+                     The Vision Statement of the Ministry of Agriculture, Water and Forestry defines what the Min-
+                     istry wants to become and achieve through its ultimate goals and direction for its employees
+                     through the implementation of the plan.
+
+                                                                    VISION
+
+                        "To be recognised as the leading contributor to food security, agro-product competitive-
+                        ness, increased and equitable access to our natural resources for improved livelihood,
+
+                                                               wellbeing and wealth for all."
+
+                     2
+2.4 Core Values                                                                                                 MAWF STRATEGIC PLAN
+
+The core values are guiding beliefs about how things should be done and represent the way
+in which Ministry of Agriculture, Water and Forestry: will provide services to customers and
+stakeholders. The Ministry's actions will be guided primarily by the core principles of the Pub-
+
+lic Service Charter, i.e. standards, information, courtesy and helpfulness, consultation and
+
+choice, accountability, openness, non-discrimination, quality of service and value for money.
+
+CORE VALUES            DESCRIPTIONS
+
+1. Integrity,          Maintain the highest standards of ethical behaviour in our interaction
+                       with stakeholders and customers.
+
+2. Transparency &      Strive to be transparent in the execution of programmes and activities, while
+    Accountability,    maintaining accountability for our actions to varied stakeholders, and to be
+                       honest in our stewardship of entrusted resources.
+
+3. Dignity & Respect,  Endeavour to achieve and maintain a working environment that exhibits dignity
+                       and respect among colleagues, and in dealings with stakeholders and clients.
+
+4. Customer Focus,     Seek to sustain relevance in our programmes and activities to customer needs
+                       and expectations, while striving to be efficient and effective in our response to
+                       customer demands for services.
+
+5. Creativity & Innovation, Strive to be progressive, creative and innovative in the provision of solutions to
+                                          problems experienced by valued customers and stakeholders.
+
+6. Professionalism &   Aspire to be professional in the execution of daily tasks through teamwork,
+    Productivity.      discipline and focus on productivity and results.
+
+                                                                                                      3
+MAWF STRATEGIC PLAN         3. STRATEGIC PROGRAMMES AND OBJECTIVES
+
+                     PROG.    STRATEGIC                            DESCRIPTION
+                       NO   PROGRAMMES
+
+                            Agriculture
+                            planning, Agro This programme is aimed at providing strategic management support services
+                        1 Business and        and promotes effective marketing and trade of Namibia's agricultural products
+                            Cooperative       as well as promoting and regulating the development of cooperatives.
+                            development
+
+                        2 Agriculture
+
+                            Integrated        IWRM in Namibia is to achieve a sustainable water resources management
+                        3 Water Resources regime contributing to social equity, economic efficiency and environmental
+                            Management        sustainability.
+
+                        4 Forestry            The purpose of the programme is to promote and ensure sustainable forest
+                                              development, management and utilization of forest resources. There are two
+                                              projects under this programme namely; classified forests (community, regional
+                                              and state managed forests) and fire management.
+
+                                 Crop and     This program is aimed at enhancing food security. There are four projects
+                                              within this programmes namely: Support to Dry land Crop Production, Promote
+                        5 Horticulture        of irrigated Crop production, Support to small scale horticulture farmers;
+                                              Integrated support of urban and peri - urban horticulture.
+                                 Production
+
+                        6   Livestock         This programme is aimed at conducting research in addressing a number of
+                            Production        livestock related productivity challenges.
+
+                                              The programme is aimed increasing food production under irrigation by creating
+                            Infrastructure    physical infrastructure for irrigation, marketing, storage and technology
+                        7   Development       adaptation. The programme beneficiaries are the producers, investors and the
+
+                                              economy in general.
+
+                        8   Water Supply      The Programme aims at developing a coordination system of WATSAN sector
+                            Coordination      planning, budgeting and implementation for different groups of stakeholders
+                                              drawn from representatives from Government, Parastatals, Civil Society and
+                                              Private Organisations both nationally and in each of the 14 regions.
+
+                        9   Sanitation        The programme is designed in partnership with all service providers to meet the
+                            Coordination      demand for sanitation services through the provision of appropriate, resilient
+                                              infrastructure that is properly serviced and maintained and socially acceptable
+                                              to improve the quality of life of rural people, by improving rural sanitation
+                                              services.
+
+                            Institutional     The programme is designed to provide corporate support services to MAWF and
+                                              ensure effective financial management, efficient internal audit, and provision of
+                        10  Development       auxiliary services and administration of human resources.
+                            and Support
+                            Services
+
+                        11  Supervision &
+                            Support Services
+
+                     4
+PROGRAMME  STRATEGIC                                  STRATEGIC OBJECTIVES                                                     MAWF STRATEGIC PLAN
+NO. PROGRAMMES
+
+           Agriculture
+           planning, Agro        1.1 Ensure effective planning and monitoring of development programmes and projects
+1 Business and                   that contribute to sustainable management and utilization of agricultural, water and
+           Cooperative           forestry resources.
+           Development
+
+                                 2.1 Promote and develop the agricultural sector in order to ensure increased productivity
+                                 and output for economic growth and food security.
+           Agriculture
+                                 2.2 Increase Namibia's capacity to produce food.
+2 Supervision &
+           Support Services
+                                 2.3 Ensure sustainable development, management and optimal utilization of water and
+
+                                 agricultural land.
+
+                                 3.1 Ensure sustainable development, management and optimal utilization of water
+                                      resources.
+3          Water Resources       3.2 Ensure adequate readiness, warning, response, mitigation and prevention measures
+           Management
+
+                                 for impacts of natural disasters related to water.
+
+4 Forestry                       4.1 Ensure sustainable development, management and optimal utilization of forest
+                                      resources.
+
+           Crop and
+5          Horticulture
+           Production;
+                                 5.1 Ensure sustainable development, management and optimal utilization of agricultural
+                                 land.
+6          Livestock Production
+
+                                 5.2 Enhance Namibia's capacity to grow food.
+
+                Infrastructure
+7 Development
+
+8          Water Supply          8.1 Ensure water security for human consumption and industry development.
+           Coordination
+
+9          Sanitation            9.1 Ensure access of all Namibians to adequate and improved sanitation facilities.
+           Coordination
+
+                Institutional
+10 Development and 10.1 Ensure an enabling environment and high performance culture.
+
+                Support Services
+
+                                                                                                                            5
+MAWF STRATEGIC PLAN                        4. STRATEGIC PLAN TERMINOLOGIES
+
+                     Defining the Strategic Programmes and Objectives is not enough. A matrix for the Strategic
+                     Plan was developed to ensure that there is a clear direction and successful implementation
+                     of strategy. The following terminologies are used in the matrix;
+                     · Strategic Objective; is the statement of the desired result.
+                     · NDP4 DO means desired outcome which is the expected end result at the end of Na-
+
+                              tional Development Plan 4.
+                     · Key Performance Indicators; are simply measures of performance. They answer
+
+                              the question "How can success be measured and tracked?" Indicators help MAWF to
+                              define and evaluate how successful is the Ministry towards the implementation of the
+                              initiatives.
+                     · Targets; simply indicate the desired result of a performance measure. The level of
+                              performance or rate of improvement needed or required. There is a strong correlation
+                              of an orientation towards the future objective. They are established by month; quarter,
+                              half-year, year. Its purpose is to keep the MAWF focused on achieving the set Strate-
+                              gic Objectives.
+                     · Programme/Projects; are means by which the MAWF achieves the strategic objec-
+                              tives. They drive strategic performance. They should be at a higher level and strategic
+                              in nature avoiding the business as usual not consolidating business as usual. Pro-
+                              grammes are long term in nature and will comprise projects which are short term. They
+                              should bring about change in service delivery in the MAWF.
+                     · Resource Estimates; Estimate costs for the initiatives that will be required. Resource
+                              allocations (Budgets) should be aligned, so as to ensure the achievement of maximum
+                              results with minimum resources. The focus should be on strategic outcomes/customer
+                              benefits/impacts as defined in the Strategic Plan.
+                     · Accountable Unit; A unit identified and given the accountability to take the ownership
+                              of the initiative set out in the Strategic Plan.
+
+                     6
+                        5. S T R A T E G I C P L A N - M A T R I X 2 0 1 2 / 1 3 ­ 2 0 1 6 / 1 W 7
+
+   Strategic Objective  NDP 4 Desired            KPI              Baseline         Targets 2012/13-2016/17  Programme                                      Project          Total Cost Estimate (N$'000)  Responsible
+                        Outcome No. &                                       Yr 1 Yr 2 Yr 3 Y r4 Yr 5                                                                                                      Directorate
+   1. Ensure effective  Explanation                                                                                                               1. Facilitate the         Operational Development
+   planning and                                                                                                                                   Development of
+   monitoring of                                                                                                                                  Policies and creation     budget         budget
+   development                                                                                                                                    of a Legal framework.
+   programmes           Agriculture              No. of Capital   2 1 8 10 10 10 1. Agriculture                                                   2. Monitoring                     1 000
+   and projects                                  Projects                                                                                         and Evaluation of
+   that contribute      experiences average      monitored and                                                                    planning, Agro  Development Projects.
+   to sustainable       real growth of 4% per    evaluated                                                                        Business and    3. Promotion of
+   management           annum over the NDP4                                                                                       Cooperative     Agricultural and
+   and utilization      period (DO9);            No. of Projects  3 1 2 2 3 3 Development                                                         Agro-industrial
+   of agricultural,     By 2017, the             implemented                                                                                      development (Agro-
+   water and forestry   proportion of severely   under                                                                                            Business).                        2 400
+   resources.           poor individuals has     concluded                                                                                        4. Promotion
+                        dropped from 15.8%       Bilateral and                                                                                    of international                  4 708
+                        in 2009/10 to below      Multi-lateral                                                                                    cooperation in
+                        10%. (DO4);              agreements       3% 3% 4% 4% 4% 5%                                                               agriculture, water and            3 424
+                        Execution, M&E and                        12 17 9 10 10 12                                                                forestry.
+                        Progress Reporting;      % increase in
+                        Driven by improved       the domestic                                                                                     5. Development                    0              0
+                        M&E mechanism            market share                                                                                     and maintenance
+                        as well as improved      of local                                                                                         of Agricultural              2 286                   DOP
+                        accountability,          agricultural                                                                                     Management                150 000
+                        supported by             products.                                                                                        Information System.                              0
+                        appropriate reward/                                                                                                                                         0
+                        sanction schemes and     No. of Viable                                                                                    6. Administration of              0
+                        an entrenched culture    Cooperative                                                                                      the Co-operatives Act,    163 818
+                        of performance           Businesses                                                                                       1996 (Act 23 of 1996).
+                        management in public     Established
+                        sector, the execution                                                                                                     7. Marketing and
+                        rate of NDP4-both in                                                                                                      trade promotion
+                        terms of timeliness                                                                                                       of agricultural and
+                        and quality-has                                                                                                           forestry products.
+                        improved significantly.
+                        (DO10)                                                                                                                    8. Agricultural subsidy,
+                                                                                                                                                  guarantees and
+                                                                                                                                                  incentive schemes.
+
+                                                                                                                                                  9. Agriculture
+                                                                                                                                                  Feasibility Study and
+                                                                                                                                                  Survey Support.
+
+                                                                            Total
+
+7
+8                                         S T R A T E G I C P L A N 2 0 1 2/1 3 - 2 0 1 6 / 1 7 M A T R I X
+
+   Strategic Objective     NDP 4 Desired       KPI                  Baseline         Targets 2012/13 ­ 2016/17  Programme         Project       Total Cost Estimate (N$'000)  Responsible
+                           Outcome No. &                                                                                                                                      Directorate
+                           Explanation                                        Yr 1 Yr 2 Yr 3 Yr 4 Yr 5                     1. Veterinary        Operational  Development
+                                                                                                                           Services.            budget       budget           DVS
+                                                                                                                           i) Animal Disease
+   1. Promote and          (DO 9) Agriculture  % of healthy         100%      100% 100% 100% 100% 100% 2. Agriculture      Control and
+                                               animals marketed     30%       35% 40% 45% 50% 55%                          Management
+      develop the          experiences         at formal markets                                                           ii) Eradication of
+      agricultural         average real                             20%       25% 30% 35% 40% 45%                          trans boundary
+      sector in order to   growth of 4% per    % implementation      3%       2.5% 2% 1.5% 1% 0%                           animal diseases in
+      ensure increased     annum over the      of strategy for      60%       65% 70% 80% 85% 90%                          the FMD protection
+      productivity and     NDP4 period:        FMD freedom in                                                              zone
+      output for economic  FMD will be         the protection zone                                                         iii) National
+      growth and food      reduced to below                                                                                Livestock
+      security             2% in the infected  % implementation                                                            Identification and
+                           zone by 2017.       of strategy for                                                             Traceability System
+                                               CBPP freedom in                                                             iv) Diagnostic and
+                                               the NCA                                                                     Analytical Capacity  580 709      788 226
+                                                                                                                           v) Veterinary
+                                               % reduction of                                                              Facilities
+                                               FMD outbreaks in                                                            Construction and
+                                               the infected zone                                                           vi) Management
+                                                                                                                           Facilitation of
+                                               % of animal disease                                                         Livestock Marketing
+                                               surveillance                                                                vii) Import and
+                                               conducted                                                                   Export Control
+                                                                                                                           viii) Veterinary
+                                                                                                                           Public Health and
+                                                                                                                           Meat Standards
+                                                                                                                           (Abattoirs).
+
+                                                                              Total                                                             580 709      788 226
+                                        S T R A T E G I C P L A N 2 0 1 2/13 - 2 0 1 6/1 7 M A T R I X
+
+   Strategic        NDP 4 Desired       KPI Baseline                      Targets 2012/13 ­ 2016/17        Programme  Project                   Total Cost Estimate (N$'000)     Responsible
+   Objective        Outcome No. &                                                                                                                                                Directorate
+                    Explanation                                    Yr 1 Yr 2 Yr 3 Yr 4               Yr 5                                       Operational  Development
+                                                                                                                                                budget       budget
+
+   3. Increase      (DO 9) Agriculture  No. of approved      54     55 57 62 69                       72 2. Agriculture 1. Agricultural
+                                        research projects     3      3 5 66                                                           Research
+      Namibia's     experiences         conducted           1 200  2 550 2 600 2 750 2800
+      capacity to   average real                                                                     6
+      produce food  growth of 4% per    No. of
+                    annum over the      appropriate
+                    NDP4 period         technologies/                                                                                           373 472      50 135
+                                        practices
+                                        released                                                     3000  11. Supervision 1. Agricultural
+
+                                        No. of farmers/                                                    & Support  Training
+                                        personnel
+                                        trained in various                                                 Services
+                                        agriculture,
+                                        water and                                                                                               67 717                        0
+                                        forestry
+                                        disciplines
+
+                                        % allocated funds   98%    99% 100% 100% 100% 100%                            2. Upgrading                                      DART
+                                        utilised                                                                      and renovation
+                                                                                                                      of agricultural                         81 363
+                                                                                                                      infrastructure            140 690
+                                                                                                                      & irrigations                                  0
+                                                                                                                      systems at                   5 085             0
+                                                                                                                      research                   16 294      131 498
+                                                                                                                      stations                  603 258
+                                                                                                                      and training
+                                                                                                                      institutions.
+
+                                                                                                                      3. Conserve
+                                                                                                                      plant genetic
+                                                                                                                      material.
+
+                                                                                                                      4. Conserve
+                                                                                                                      animal genetic
+                                                                                                                      materials.
+
+                                                                   Total
+
+9
+10                                   S T R A T E G I C P L A N 2 0 1 2/1 3 - 2 0 1 6/ 1 7 M A T R I X
+
+    Strategic          NDP 4                KPI       Baseline                Targets 2012/13 ­ 2016/17           Programme    Project         Total Cost Estimate (N$'000)  Responsible
+    Objective          Desired                                               Yr 2 Yr 3 Yr 4                                                                                  Directorate
+                       Outcome       Total area
+      4. Ensure        No. &         (hectare) of               Yr 1                                        Yr 5                               Operational Development
+         sustainable   Explanation   land de-bushed                                                      20 000
+         development,                                                                                                                          Budget   Budget
+         management    Agriculture   Area (hectare)                                                         100
+         and optimal   experiences   of forest cover  6 700 6 700     10 000  12 000         15 000               4. Forestry  1. Forest
+         utilisation   average real  increased by
+         of forest     growth of 4%  tree planting                                                                             Resource        22 684   100 000
+         resources     per annum                                                                                               Management
+                       over the                                                                                                i) De-bushing
+                       NDP4 period
+                       (DO9)                          94 100                 100 100 100                                       ii) Tree
+                                                                                                                               planting
+                                                                                                                               and Orchard     40 000   45 000
+                                                                                                                               Development
+
+                                     Total area       455 324 3 238 540 3 238 540 3 352 371  3 468 202 3 693 864               iii) Community  6 000     7 000 DOF
+                                     (hectare)           8 10 10 12                              10 10                         based forest
+                                     of forests                                                                                management               96 126
+                                     under formal                                                                                                             0
+                                     management                                                                                iv)              24 016
+                                     increased                                                                                 Development      25 834  40 200
+                                                                                                                               of Forestry     114 207
+                                     No. of forestry                                                                           Infrastructure
+                                     infrastructures
+                                     constructed and                                                                           v) Forest
+                                     maintained                                                                                Research
+
+                                                                                                                               vi) Forest
+                                                                                                                               protection and
+                                                                                                                               Conservation
+
+                                                                      Total                                                                    248 126  288 326
+                                         S T R A T E G I C P L A N 2 0 1 2/1 3 - 2 0 1 6/1 7 M A T R I X
+
+    Strategic         NDP 4 Desired              KPI        Baseline          Targets 2012/13 ­ 2016/17  Programme                  Project                  Total Cost Estimate (N$'000)  Responsible
+    Objective                                                   0     Yr 1 Yr 2 Yr 3 Yr 4 Yr 5                                                                                             Directorate
+                      Outcome No. &      No. of Annual                                                   1. Water       1. Integrated Water             Operational Development budget
+    5. Ensure         Explanation        Reports on                                                         Resources   Resources Management            budget                             DRM
+       sustainable                       national water                                                     Management  i) Development &
+       development,   (DO5.3) By         resource                     0011   1                                          implementation of
+       management     2017 increased     availability                                                                   national water policies and
+       and optimal    access to water    produced                                                                       legislation,
+       utilization    for human                                                                                         ii) Administration of policies
+       of water       consumption                                                                                       and legislation,
+       resources      from 85.5 to                                                                                      iii) National water planning
+                      100% of the                                                                                       and coordination,
+                      population                                                                                        iv) Collection, management
+                      as well as                                                                                        and dissemination of
+                      sufficient water                                                                                  water resources data and
+                      reserves for                                                                                      information,
+                      industrialisation                                                                                 v)Feasibility studies and
+                                                                                                                        initiation the development
+                                                                                                                        of water infrastructure,        81 000  0
+                                                                                                                        vi) Promotion of Namibia's
+                                         % of activities    10% 20% 30% 40% 50% 100%                                    interest in shared river
+                                         on integrated                                                                  basins and international
+                                         water resources                                                                organisations,
+                                                                                                                        vii) Provision of borehole
+                                                                                                                        drilling services in rural
+                                                                                                                        areas,
+                                                                                                                        viii) Investigations and
+                                                                                                                        assessment of water
+                                                                                                                        resources availability.
+
+                                                                                                                        2. Upgrading & Equipping
+                                                                                                                        of water analysis
+                                                                                                                        laboratory
+
+                                         management                                                                                                     140 1 390
+                                         successfully
+                                         implemented
+
+                                         Water Resource     0         0001   1                                          3. Quantification of
+                                         Management                                                                     groundwater resources of
+                                         Act in place and                                                               Namibia                         768     5 300
+                                         implemented
+
+    6. Ensure                            No. of water       0         2 4 6 8 10 Water Resources 1. Flood monitoring &
+      adequate                           basins with                                                     Management     management
+      readiness,                         adequate
+      warning,                           monitoring/                                                                                                       900  44 409
+      response,                          forecasting/                                                                                                   82 808  51 099
+      mitigation and                     warning/
+      prevention                         compliance/
+      measures                           mapping
+      for impacts                        systems for
+      of natural                         natural disasters
+
+      disasters                          related to water
+      related to
+11    water
+
+                                                                      Total
+12                                  S T R A T E G I C P L A N 2 0 1 2/1 3 - 2 0 1 6/1 7 M A T R I X
+
+    Strategic       NDP 4 Desired   KPI              Baseline          Targets 2012/13 ­ 2016/17  Programme  Project                                           Total Cost Estimate (N$'000)  Responsible
+    Objective       Outcome No.                        284                                                                                                                                   Directorate
+                    & Explanation                              Yr 1 Yr 2 Yr 3 Yr 4 Yr 5                                                                        Operational Development
+    7. Ensure                                                  284 284 460 470 480
+    sustainable                                                                                                                                                budget     budget
+    development,
+    management      (DO4) By        kg/ha of dry-                                                 2.Agriculture 1. Agricultural Development and                           (i) 185 546
+    and optimal                                                                                                       Extension                                           (ii) 39 408
+    utilization of  2017 the        land crop yield
+    water and       proportion of   increased for                                                                     (i) DCPP
+    agriculture     severely poor   Sorghum and                                                                       (ii) Development of Livestock, Breeding
+    land            individuals     Pearl Millet                                                                      and Marketing infrastructure in
+                    will drop from                                                                                    communal areas
+                    15.8% to                                                                                                                                   550 000
+                    below 10%
+
+                                    kg/ha of dry-    1295 1295 1295 3500 3600 3700                           (iii) Small stock distribution and                                 (iii) 18 184
+                                    land crop yield                                                          development in communal areas                             0
+                                    increased for    9200 9200 9200 9500 10000 10000
+                                    Maize            6300 6300 6300 6300 6500 6700                           (iv) Development Agricultural                                      (iv) 59 668
+                                    kg/ha under                                                              Technology Centre                                         0
+                                    irrigation for   11200 11 12 13 14  15
+                                    maize increased                                                          (v) Construction of Agricultural                                  (v) 18 500 DEES
+                                                               500 000 000 000 000                           Development Centres
+                                    kg/ha under                                                                                                                        0
+                                    irrigation for                                                           (vi) Establishment of plant Health and                             (vi) 88 477
+                                    wheat increased                                                          Bio-Security Laboratory
+                                                                                                             (vii) National Horticulture Development                   0
+                                    Ha. under                                                                Initiative
+                                    irrigation                                                               (viii) Agricultural Technologies Support
+                                    increased                                                                Services
+
+                                                                                                             2. Agricultural Engineering Services              108 591     (i) 647 357
+                                                                                                             (i) Green Scheme                                               (ii) 18 103
+                                                                                                                                                                       0  (iii) 156 876
+                                                                                                             (ii) Kalimbeza Rice Project                               0
+                                                                                                             (iii) National Horticulture Development                       (iv) 52 259
+                                                                                                             Initiative
+                                                                                                             (iv) Integrated Grain Storage Facilities
+
+                                                                                                                                                                       0
+                                      S T R A T E G I C P L A N 2 0 1 2/1 3 - 2 0 1 6/1 7 M A T R I X
+
+    Strategic          NDP 4 Desired          KPI     Baseline  Targets 2012/13 ­ 2016/17  Programme     Project                                            Total Cost Estimate (N$'000)  Responsible
+    Objective          Outcome No.                                                                                                                                                        Directorate
+                       & Explanation  % increased in                                                                                                        Operational Development
+    8. Ensure                         horticultural                Yr 1 Yr 2 Yr 3 Yr 4 Yr 5
+       sustainable     DO9;           production                                                                                                            budget   budget
+       development,    Agriculture                    39% 40% 40% 41% 42% 43% 5. Crop and 1. Dry land Crop Production
+       management      experiences    Increased                                                                           Horticulture                      128 000          40 000
+       and optimal     average real   number                                                                              Production
+       utilization of  growth of 4%   of farmers
+       agricultural    per annum      practicing      70 140 210 280 350 420                             2. Integrated support of urban and peri-
+       land            over the       Conservation                                                       urban horticulture
+                       NDP4 period    Agriculture
+                                                                                                                                                            15 000           0
+
+                                      Increased       50 100 150 200 250 300                             3. San Dry land Crop and Seed Support
+                                      number
+                                      of farmers                                                                                                            43 000           0
+                                      practicing in
+                                      the Integrated  6 7 8 9 10 11                                      4. Small Scale House Hold Garden Support                                      DEES
+                                      Support to
+                                      Urban and                                                                                                             129647                 0
+                                      Peri-Urban
+                                      Horticulture                                                       5. Small Scale House Hold Dry land                 43 000           30 000
+                                                                                                         Cropping Support                                   55 000                 0
+                                      No. of support                                                                                                                               0
+                                      mechanisms                                                         1. San Livestock Breeding Material Support
+                                      designed and
+                                      operational
+
+                                                                                           6. Livestock
+                                                                                           Production
+
+                                                                                                         2. Small Stock Distribution and                    168 431
+                                                                                                         Development for small scale farmers
+
+                                                                                                               3. Poultry Distribution and Development for  55 000
+                                                                                                               small Scale Farmers                           2 973
+
+                                                                                           11. Supervision 1. Emergency Relief Services
+                                                                                           and Support
+                                                                                           Services
+
+13
+14                                     S T R A T E G I C P L A N 2 0 1 2/1 3 - 2 0 1 6/1 7 M A T R I X
+
+    Strategic    NDP 4 Desired                 KPI       Baseline           Targets 2012/13 ­ 2016/17          Programme              Project          Total Cost Estimate (N$'000)  Responsible
+    Objective    Outcome No. &                                                                                                                                                       Directorate
+                 Explanation           Ha. under                                                                             1. Expansion of Green  Operational Development
+    9. Enhance                         irrigation                     Yr 1    Yr 2    Yr 3    Yr 4       Yr 5                Scheme
+    Namibia's    (DO9) Agriculture     increased                   11 000   12 000  13 000  14 000     15 000                                       budget  budget
+    capacity to  experiences
+    grow food    average will                            10 100                                                5. Crop and
+                 increase to real                                                                              Horticulture
+                 growth of 4% per                                                                              Production                           85 143  1 235 941
+                 annum over the
+                 NDP4 period           Tons of Grain     14 000    16 000   18 000 20 000 22 000 24 000                      2. Integrated grain
+                                       storage capacity                                                                      Storage Facility
+                                       increased                                                                             (procurement and
+                                                                                                                             Management)
+                                                                                                                                                    85 143  0
+
+                 By 2017, adequate     No. of            187       193      198 204 208 210 7. Infrastructure 1. Construction of                            100 000
+                 Agriculture           infrastructure                                                                                                       50 000
+                 infrastructure        developed,                                                              Development   Silos                          35 000
+                 will be in place to   maintained and                                                                                                       25 000
+                 facilitate economic   operational                                                                           2. Construction of
+                 development and                                                                                             ADC's                          80 000
+                 innovation, research
+                 and availability of                                                                                         3. Construction of                                      DEES
+                 latest technologies                                                                                         Technology Centres
+                 score will improve
+                 from 5.6 to 6.0                                                                                             4. Development of      0
+                 (D05.5)                                                                                                     Livestock Breeding
+                                                                                                                             and Marketing
+                                                                                                                             Infrastructure in the
+                                                                                                                             Communal Areas
+
+                                                                                                                             5. Construct Plant
+                                                                                                                             Health and Bio
+                                                                                                                             security Laboratories
+                                                                                                                             for Law Enforcement
+
+                                                                            Total                                                                   1 468 928 2 880 319
+                                              S T R A T E G I C P L A N 2 0 1 2/1 3 - 2 0 1 6/1 7 M A T R I X
+
+    Strategic          NDP 4 Desired          KPI               Baseline          Targets 2012/13-2016/17  Programme        Projects                                                    Total Cost Estimate (N$'000)  Responsible
+    Objective          Outcome No. &                              83%     Yr 1 Yr 2 Yr 3 Yr 4 Yr 5                                                                                                                    Directorate
+                       Explanation                                                                                                                                                      Operational Development
+    10. Ensure                                                            84% 85% 86% 87% 88%
+    water security                                                                                                                                                                      budget   budget
+    for human
+    consumption        By 2017, access to     % increase in                                                8. Water Supply  1. Construction Water
+    and industry                                                                                           Coordination
+    development        water for human        households that                                                               Supply Infrastructure
+                       consumption will       have access to                                                                1.1. Ensure information on
+                       increase from          potable water.                                                                households is secured and
+                       85.5% to 100% of                                                                                     reliable.
+                       the population as                                                                                    1.2. Ensure procurement for
+                       well as sufficient                                                                                   services is done according to
+                       water reserves for                                                                                   treasury.
+                       industrialization                                                                                    1.3 Timely construction of
+                       (D05.3)                                                                                              water supply infrastructure
+                                                                                                                            within the policies,
+                                                                                                                            strategies and according to                                 342 216  1 408 910
+                                                                                                                            specifications.
+                                                                                                                            2. Review of CBM Strategy                                                                 DWSSC
+                                                                                                                            2.1 Implementation of
+                                                                                                                            Revised CBM Strategy.
+                                                                                                                            2.2 Community training
+                                                                                                                            to sustainably manage
+                                                                                                                            their infrastructure.
+
+    11. Ensure access  By 2017, access to     % increase of     25% 30% 40% 50% 60% 70% 9. Sanitation 1. Implementation of
+    of all Namibians   sanitation facilities  households who
+    to adequate        will increase from     have access                                                                          Coordination Community-led (CLTS) in the
+    and improved       25% to 70% of the      to improved                                                                                                regions.
+    sanitation         population (D05.3)     rural sanitation                                                                                           2. Construction of Sanitation
+    facilities                                facilities                                                                                                 Facilities.
+                                                                                                                                                         3. Coordination of the
+                                                                                                                                                         implementation of Sanitation   228 144  939 272
+                                                                                                                                                         Strategy.
+                                                                                                                                                         4. Capacity building
+                                                                                                                                                         implementation in
+                                                                                                                                                         conjunction with DART.
+
+                                                                          Total                                                                                                         570 360  2 348 182
+
+15
+16                              S T R A T E G I C P L A N 2 0 1 2/1 3 - 2 0 1 6/1 7 M A T R I X
+
+    Strategic    NDP 4                   KPI         Baseline         Targets 2012/13-2016/17  Programme                                             Project        Total Cost Estimate (N$'000)           Respon.
+    Objective    Desired                                       Yr 1 Yr 2 Yr 3 Yr 4 Yr 5                                                                                                                    Directorate
+                 Outcome No.    % of Budget                                                                                              1. Financial Management    Operational  Development
+    12. Ensure   & Explanation  execution rate                                                                                                                      budget       budget
+    an enabling                 % of approved                                                                                            2. Human Resource
+    environment  (DO1) Provide  funded posts filled  98% 98% 99% 99% 99% 100% 10. Institutional                                          Management                 9 321                         0
+    and high     Institutional                                                                                         Development and
+    performance  Environment                                                                                           Support Services  3. Human Resource
+    culture                                                                                                                              Development
+                                                     90% 95% 97% 99% 99% 100%
+
+                                                                                                                                                                    7 481                         0
+
+                                Number of            0         0 3400 3400 3400 3400
+
+                                staff members                                                                                                                                                           0
+                                Performance                                                                                                                                      0
+                                Agreements signed
+                                and assessed.
+
+                                Number of               0 0232 2                                                                         4. Logistic Services
+
+                                MAWF Regional                                                                                            5. Internal Audit          106 296      25 971
+                                Headquarters                                                                                                                                                 DGS
+                                constructed.                                                                                             6. Procurement services       5 972
+                                                                                                                                         and Asset Management        26 139            0
+                                No. of internal         8 8888 8
+                                                                                                                                         7. Corporate                       0          0
+                                reports submitted                                                                                        Communication                      0
+                                                                                                                                         8. Public Service Reforms   12 346            0
+                                and resolutions                                                                                                                          350           0
+                                                                                                                                         9. ICT Services             43 695       1 411
+                                implemented                                                                                              10. Employee Wellness,     211600
+                                                                                                                                         HIV/Aids and Gender                           0
+                                                                                                                                         Mainstreaming
+                                                                                                                                         11. Fleet management                          0
+                                                                                                                                                                                 27382
+                                                               TOTAL
+                            6. CRITICAL SUCCESS FACTORS                                                  MAWF STRATEGIC PLAN
+
+Critical Success Factors (CSFs) are those essential areas of activities in which an organisa-
+tion must perform well in order to ensure the successful execution of its strategy. It is essen-
+tial that Ministry of Agriculture, Water and Forestry carefully manage the following factors to
+achieve success in the implementation of programmes and projects:
+
+1. Leadership, Commitment and Ownership: In order to achieve what is set out in this
+      Strategic Plan, the Ministry of Agriculture, Water and Forestry need to inspire, motivate
+      and develop its people and make them feel valued. This takes special leadership quali-
+      ties. Through creating a firm but fair leadership style, focusing on developing mutual
+      trust, shared beliefs and strong relations, staff members in return will show commitment
+      and ownership for the part they play in the success of the Ministry.
+
+2. Teamwork; The Ministry of Agriculture, Water and Forestry need to create a work culture
+      that values collaboration. It is necessary to create an environment where staff members,
+      Management understand and believe that thinking, planning, decisions and actions are
+      better when done cooperatively. Staff members, Management should recognize, and
+      even assimilate, the belief that "none of them is as good as all of them." Perhaps the
+      most obvious reason for encouraging teamwork in the implementation of Strategic Plans
+      is because it enables organization to do so much more. Therefore, effective teamwork
+      can produce incredible results but it takes a great deal of hard work and compromise.
+
+3. Effective Communication; it is imperative for the success of this Strategic Plan that
+      managers are able to communicate their ideas clearly, so that staff members definitely
+      know what is asked of them, then the subordinates will, consequently, perform their
+      tasks correspondingly. A good style of management is required, as well as a positive
+      approach to communication in order to ensure that staff members and supervisors un-
+      derstand each other, and are more effective when caring out their tasks.
+
+4. Good Stakeholder Relation; it is imperative for the Ministry of Agriculture, Water and
+      Forestry to develop and maintain strong relationships with their salient stakeholder
+      groups because it improves the chances that relationships will continue and will effec-
+      tively work together to realize the dream of the Ministry of Agriculture, Water and For-
+      estry.
+
+5. Alignment to the Budget; often than not Strategic Plan fail to achieve the intended
+      results due to a lack of financial resources. Therefore to deal with this challenge, Direc-
+      torates need to realistically estimate the cost/resource requirements for the strategic
+      programmes to be implemented. Resource allocations as per MTEF estimation should
+      be aligned to programmes so as to ensure the achievement of maximum results with
+      minimum resources. The focus should be on strategic outcomes customer benefits/im-
+      pacts. The individual cost estimates of Programmes / projects needs to be consolidated
+      to determine the total cost which will inform and be linked to the budget.
+
+                                                                                                     17
+NOTES
+                                                                                                                                                                 18
+
+MAWF STRATEGIC PLAN
+

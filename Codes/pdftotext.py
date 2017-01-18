@@ -28,14 +28,12 @@ class pdf_to_text():
 
             pdf = output.read()
 
-            print(pdf)
-
             pdf = pdf.decode('windows-1252')
 
             with open(output_file, 'w') as f:
                 f.write(pdf)
 
 
-root_path = '/Users/maxwelllee54/GitHubs/Rapid_Assessment_Tools/SharedFiles/Fordham/RIA Liberia'
+root_path = '/Users/maxwelllee54/GitHubs/Rapid_Assessment_Tools/SharedFiles/Fordham'
 
 pdf = pdf_to_text(root_path).pdf_to_text()
