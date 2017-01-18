@@ -29,9 +29,9 @@ class pdf_to_text():
             pdf = output.read()
 
             pdf = pdf.decode('windows-1252')
-
-            with open(output_file, 'w') as f:
-                f.write(pdf)
+            if not os.path.isfile(file):
+                with open(output_file, 'w') as f:
+                    f.write(pdf)
 
 
 root_path = '/Users/maxwelllee54/GitHubs/Rapid_Assessment_Tools/SharedFiles/Fordham'
