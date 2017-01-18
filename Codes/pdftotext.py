@@ -22,7 +22,7 @@ class pdf_to_text():
         for file in self.files:
 
             output = tempfile.NamedTemporaryFile()
-            output_file = os.path.split(file)[0] + '/' + os.path.split(file)[1].replace('.pdf', '.txt')
+            output_file = file.replace('.pdf', '.txt')
 
             out, err = subprocess.Popen(['pdftotext', '-layout', file, output.name]).communicate()
 
