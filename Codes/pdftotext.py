@@ -1,44 +1,41 @@
 import tempfile, subprocess, os
 
-def pdf_to_text(file_object):
+class pdf_to_text():
 
-    pdf = file_object.read()
+    def __init__(self, root_path):
+        self.root_path = root_path
+        self.files = []
 
-    tf = tempfile.NamedTemporaryFile()
-    tf.write(pdf)
-    tf.seek(0)
+    def all_pdf(self):
 
-    output = tempfile.NamedTemporaryFile()
+        dir_list = os.walk(self.root_path)
+        file_path = []
 
-    if(len(pdf) > 0):
-        out, err = subprocess.Popen(['pdftotext', '-layout', tf.name, output.name]).communicate()
-        return output.read()
+        for root, dirs, files in dir_list:
+            for file in files:
+                self.files.append(os.path.join(root, file))
 
-    else:
-        return None
+    def pdf_to_text(self):
 
+        self.all_pdf()
 
-def all_pdf(root_dir):
+        for file in self.files:
 
-    dir_list = os.walk(root_dir)
-    file_path = []
+            output = tempfile.NamedTemporaryFile()
+            output_file = os.path.split(file)[0] + '/' + os.path.split(file)[1].replace('.pdf', '.txt')
 
-    for root, dirs, files in dir_list:
-        for file in files:
-            file_path.append(os.path.join(root, file))
+            out, err = subprocess.Popen(['pdftotext', '-layout', file, output.name]).communicate()
 
-    return file_path
+            pdf = output.read()
 
+            print(pdf)
 
+            pdf = pdf.decode('windows-1252')
 
-
-
-root = '/Users/Maxwell/PycharmProjects/Github/Rapid_Assessment_Tools/SharedFiles/Fordham/'
-
-
-#pdf = pdf.decode('windows-1252')
+            with open(output_file, 'w') as f:
+                f.write(pdf)
 
 
-#with open('output.txt', 'w') as f:
-#    f.write(pdf)
+root_path = '/Users/maxwelllee54/GitHubs/Rapid_Assessment_Tools/SharedFiles/Fordham/RIA Liberia'
 
+pdf = pdf_to_text(root_path).pdf_to_text()
