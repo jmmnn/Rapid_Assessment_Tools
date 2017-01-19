@@ -41,11 +41,11 @@ class pdf_to_text():
 
             pdf = pdf.decode('windows-1252')
 
-            if not os.path.isfile(file):
+            if not os.path.isfile(output_file):
                 with open(output_file, 'w') as f:
                     f.write(pdf)
 
 if __name__ == '__main__':
 
-    root_path = '/Users/maxwelllee54/GitHubs/Rapid_Assessment_Tools/SharedFiles/Fordham'
+    root_path = '/Users/maxwelllee54/GitHubs/Rapid_Assessment_Tools/SharedFiles/Fordham/RIA Bhutan/Docs Reviewed'
     pdf_to_text(root_path).convert()
