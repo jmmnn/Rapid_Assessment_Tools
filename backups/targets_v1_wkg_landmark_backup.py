@@ -1,4 +1,4 @@
-#sBased on V1 landmark, this code is fully functional
+#sample class
 import nltk
 from nltk.corpus import wordnet as wn
 import pandas as pd
@@ -61,13 +61,9 @@ class Targets:
     def printTargetList(self):
         return [self.targets[i].displayTarget() for i in self.targets]
 
-##t###### Testing & cheatsheet
-# SDGTargets = Targets('SDGtargets.csv')    #initialize with a csv file
+##testing & cheatsheet
+SDGTargets = Targets('SDGtargets.csv')
 #SDGTargets.printTargetList()              #works print all targets
 #SDGTargets.targets[1].display()            #works prints one target with all its fields
-#SDGTargets.targets[1].displayTarget()            #works prints one target with all its fields
+SDGTargets.targets[1].displayTarget()            #works prints one target with all its fields
 #print(SDGTargets.targets[1].tokens)         #works prints the tokens of target '1'
-
-#finding strings in the text
-# answer = 'eradicate' in SDGTargets.targets[1].tokens      #works
-# print(answer)

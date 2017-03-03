@@ -1,4 +1,4 @@
-#sBased on V1 landmark, this code is fully functional
+#sample class
 import nltk
 from nltk.corpus import wordnet as wn
 import pandas as pd
@@ -40,8 +40,20 @@ class Target:
         allValues = [self.targetNumber, self.targetText]
         print(allValues)
 
-#########Targets class definition
-## Helper class
+def processTargets (csvfile):
+    ''' This is the main class which calls on helper classes to process the lists of targets.
+    '''
+    mydata = loadTargetCsv(csvfile)            #load your csv file
+    allTargets = analyzeTargets(mydata)        #analyzes them
+    return allTargets
+
+def loadTargetCsv (csvfile):
+    '''
+    Loads a list of Targets from a csv file. The file must have at least 2 columns with these headers: first "targetNumber" (the values should be integers or text) & second "targetText"
+    '''
+    df = pd.read_csv(csvfile, encoding = "ISO-8859-1")
+    return df
+
 def analyzeTargets (dataframe):
     """This function is used to process a dataframe with a lists of targets. The Targets will be analyzed and stored
     in a database or file for future use.
@@ -53,21 +65,21 @@ def analyzeTargets (dataframe):
         targets[a] = Target(a,b)
     return targets
 
-class Targets:
-    def __init__(self, csvfile):
-        self.mydata = pd.read_csv(csvfile, encoding = "ISO-8859-1") #csv to dataframe
-        self.targets = analyzeTargets(self.mydata)
+def printTargetList(dataframe):
+    return [dataframe[i].displayTarget() for i in dataframe]
 
-    def printTargetList(self):
-        return [self.targets[i].displayTarget() for i in self.targets]
+##testing & cheatsheet
+# t1_1 = Target(1.1 , 'reduce poverty for all women') #create a new target
+# t1_1.display()                                      #display the details of target
+#mydata = loadTargetCsv('SDGtargets.csv')              #load your csv file
+#print (mydata['targetNumber'])                       # this prints only one columnTarget
+#print (mydata[0:2])                                  # this prints a range of rows
+#print(mydata.iloc[3])                                # this prints just one specific row
+#print(mydata.iloc[3]['targetNumber'])                # this prints a specific value in a specific row
+#print(mydata.iloc[3]['targetText'])                  # same as above
 
-##t###### Testing & cheatsheet
-# SDGTargets = Targets('SDGtargets.csv')    #initialize with a csv file
-#SDGTargets.printTargetList()              #works print all targets
-#SDGTargets.targets[1].display()            #works prints one target with all its fields
-#SDGTargets.targets[1].displayTarget()            #works prints one target with all its fields
-#print(SDGTargets.targets[1].tokens)         #works prints the tokens of target '1'
-
-#finding strings in the text
-# answer = 'eradicate' in SDGTargets.targets[1].tokens      #works
-# print(answer)
+## Execution
+SDGTargets = processTargets('SDGtargets.csv')
+printTargetList(SDGTargets)                 #prints the list of targets
+SDGTargets[1].displayTarget()               #prints one target
+SDGTargets[168].display())                  #working!! this displays all the fields for target labeled 169

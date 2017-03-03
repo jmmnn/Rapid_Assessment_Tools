@@ -1,4 +1,4 @@
-#sBased on V1 landmark, this code is fully functional
+#sample class
 import nltk
 from nltk.corpus import wordnet as wn
 import pandas as pd
