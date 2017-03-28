@@ -54,8 +54,8 @@ def analizer (targetsCsv , sentencesCsv , similarityScore = 0):
     # print(result_df)
 
 #### Runnig it!!
-#analizer('SDGTargets.csv' , './output_Folder/11-Year-Plan_Vol-1.pdf.csv')   #careful, this takes for ever to run =)
-analizer('5Targets.csv' , './output_Folder/11-Year-Plan_Vol-1.pdf.csv')
+analizer('SDGTargets.csv' , './output_Folder/11-Year-Plan_Vol-1.pdf.csv')   #careful, this takes for ever to run =)
+#analizer('5Targets.csv' , './output_Folder/11-Year-Plan_Vol-1.pdf.csv')
 #analizer('5Targets.csv' , './output_Folder/test.pdf.csv')
 
 
